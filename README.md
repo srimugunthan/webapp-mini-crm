@@ -1,10 +1,16 @@
-# LinkedIn Mini CRM
+#  Mini CRM Webapp for linkedin connections
 
 A private, single-user web app that runs on your machine. Import your LinkedIn connections export, organise
 people into groups, track last visited / last messaged dates, and move people through per-group stage pipelines.
 All data stays in one SQLite file. See [linkedin-mini-crm-PRD.md](linkedin-mini-crm-PRD.md) and
 [system-design.md](system-design.md); the phase-by-phase plan is in [specs/linkedin-mini-crm-v1/](specs/linkedin-mini-crm-v1/)
 and what was built/tested per phase is in [docs/phase-reports/](docs/phase-reports/).
+
+## Demo video
+
+
+https://github.com/user-attachments/assets/6578ab5d-e76f-4f05-891d-cbedaf173698
+
 
 ## Run it
 
