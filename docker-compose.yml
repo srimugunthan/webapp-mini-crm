@@ -1,0 +1,10 @@
+services:
+  crm:
+    build: .
+    # Loopback only: the app has no login. Do NOT change to "8000:8000" (see ADR-003).
+    ports:
+      - "127.0.0.1:8000:8000"
+    volumes:
+      - ./db:/db
+      - ./data:/data
+    restart: unless-stopped

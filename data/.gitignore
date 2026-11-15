@@ -1,0 +1,4 @@
+# Uploaded/exported CSV copies are personal data: keep only this file and .gitkeep
+*
+!.gitignore
+!.gitkeep

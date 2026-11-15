@@ -1,0 +1,3 @@
+# Database, WAL/SHM files and backups are personal data: keep only this file
+*
+!.gitignore
